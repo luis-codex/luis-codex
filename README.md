@@ -1,3 +1,5 @@
+[VIEW CV](https://docs.google.com/document/d/1Wbv6YmQV9A5SZbAL9f6Q6lGgLRkhp3M9r3lYWSgLQ6A/edit?usp=drivesdk)
+
 [![portafolio](https://og-api.qbytes.dev/github/banner/luis-codex?text=Full%20Stack)](https://luis-code.qbytes.dev)
 
 # 💻 Tech Stack:
