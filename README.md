@@ -1,4 +1,5 @@
-[VIEW CV](https://docs.google.com/document/d/1Wbv6YmQV9A5SZbAL9f6Q6lGgLRkhp3M9r3lYWSgLQ6A/edit?usp=drivesdk)
+
+[curriculum_Tenorio-Luis.pdf](https://github.com/user-attachments/files/18579775/curriculum_Tenorio-Luis.pdf)
 
 [![portafolio](https://og-api.qbytes.dev/github/banner/luis-codex?text=Full%20%20Stack)](https://luis-code.qbytes.dev)
 
