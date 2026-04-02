@@ -1,21 +1,73 @@
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Deno](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# Luis Tenorio
 
-# 💫 About Me:
-👩🏻‍💻Full stack Developer <br>
-🦸🏻‍♀️ Tech Content Creator <br>
-💼 Open To Job Opportunities <br>
-🌎 https://luis-code.qbytes.dev/
+**Full Stack Engineer** · TypeScript, Node.js, NestJS, React · APIs & Microservicios · IA Aplicada (RAG)
 
-
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@luis_codex)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-tenorio-code/) 
-[![twitch](https://img.shields.io/badge/twitch-%230077B5.svg?logo=twitch&logoColor=white)](https://www.twitch.tv/luis_code) 
-[![twitter](https://img.shields.io/badge/twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://x.com/luis_codex) 
-
-
-
+Construyo herramientas internas, APIs y experiencias web que conectan backend, frontend y operaciones de negocio. Actualmente trabajo en retail (Cencosud/SEIDOR) integrando sistemas, diseñando microservicios y aplicando IA con LLM y RAG para automatización de procesos.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=luis-codex&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 
+### Actualmente
+
+- 🔧 Construyendo herramientas internas y APIs REST en **Cencosud / SEIDOR**
+- 🤖 Diseñando soluciones con **LLM y RAG** para automatización operativa
+- 🎓 Cursando Ingeniería en TI en la **Universidad de las Fuerzas Armadas – ESPE**
+- 📚 Profundizando en **arquitectura de software y system design**
+
+---
+
+### Proyectos destacados
+
+<!-- Reemplaza estos con tus proyectos reales. Cada uno debería tener un buen README en su repo. -->
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [**nombre-proyecto-1**](#) | Breve descripción del problema que resuelve y el resultado | TypeScript, NestJS, MongoDB |
+| [**nombre-proyecto-2**](#) | Breve descripción del problema que resuelve y el resultado | React, Next.js, PostgreSQL |
+| [**nombre-proyecto-3**](#) | Breve descripción del problema que resuelve y el resultado | Node.js, RAG, LLM |
+
+> ⬆️ *Actualiza esta tabla con tus repos reales y fíjalos (pin) en tu perfil.*
+
+---
+
+### Tech Stack
+
+**Lenguajes:** TypeScript · JavaScript · Java
+
+**Frontend:** React · Next.js · Astro · HTML · CSS
+
+**Backend:** Node.js · NestJS · REST APIs · Microservicios
+
+**Bases de datos:** MongoDB · PostgreSQL
+
+**Infra & Tools:** Linux · Vercel · GitHub Actions · Figma · Notion
+
+---
+
+### Certificaciones
+
+- Back End Development and APIs — freeCodeCamp
+- Front End Development Libraries — freeCodeCamp
+- Google IT Support Certificate — Google
+- GitHub Foundations — GitHub
+- Building RAG Apps Using MongoDB — MongoDB
+
+---
+
+### GitHub Stats
+
+<!-- Reemplaza "luis-codex" con tu username real de GitHub -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=luis-codex&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-codex&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tenorio-luis/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luisprograming0@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@luis_codex)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/luis_codex)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/luis_code)
