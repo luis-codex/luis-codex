@@ -22,7 +22,6 @@
 ### 👨‍💻 Sobre mí
 
 * 🏢 Actualmente desarrollo soluciones internas y arquitecturas orientadas a microservicios.
-* 🎓 Estudiante de Ingeniería en Tecnologías de la Información en la Universidad de las Fuerzas Armadas - ESPE.
 * 🧠 Me especializo en **integración de sistemas, Serverless Computing y la implementación de IA aplicada (LLM/RAG)** para potenciar la toma de decisiones.
 * 💡 Apasionado por la calidad técnica, el diseño de software mantenible y la optimización del rendimiento tanto en backend como en frontend.
 * 💬 Pregúntame sobre **TypeScript, Node.js, NestJS, React y automatización de procesos**.
