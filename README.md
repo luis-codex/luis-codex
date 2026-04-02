@@ -14,10 +14,10 @@ Construyo herramientas internas, APIs y experiencias web que conectan backend, f
 - 📚 Profundizando en **arquitectura de software y system design**
 
 ---
-
+<!--
 ### Proyectos destacados
 
-<!-- Reemplaza estos con tus proyectos reales. Cada uno debería tener un buen README en su repo. -->
+ Reemplaza estos con tus proyectos reales. Cada uno debería tener un buen README en su repo.
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
@@ -26,7 +26,7 @@ Construyo herramientas internas, APIs y experiencias web que conectan backend, f
 | [**nombre-proyecto-3**](#) | Breve descripción del problema que resuelve y el resultado | Node.js, RAG, LLM |
 
 > ⬆️ *Actualiza esta tabla con tus repos reales y fíjalos (pin) en tu perfil.*
-
+ -->
 ---
 
 ### Tech Stack
