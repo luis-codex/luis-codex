@@ -5,7 +5,7 @@
 **Full Stack Engineer · API Design · Applied AI**
 
 <a href="https://luis-tenorio.qbytes.dev/">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/luis-tenorio-code/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/tenorio-luis/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://www.upwork.com/freelancers/~0162b51fea3ff5bf7c">Upwork</a>
 
 </div>
