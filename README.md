@@ -5,7 +5,7 @@
 **Full Stack Engineer · API Design · Applied AI**
 
 <a href="https://luis-tenorio.qbytes.dev/">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/tenorio-luis/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/luis-tenorio-code/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:luisprograming0@gmail.com">Email</a>
 
 </div>
@@ -28,7 +28,7 @@ Focused on maintainable software design, system integration, and applied AI (LLM
 
 **Cloud** — AWS S3 · Azure · GCP · Cloudflare R2 & D1 · Serverless
 
-**AI** — LLMs · RAG · OpenAI · Anthropic
+**AI** — LLMs · RAG · OpenAI · Anthropic · ONNX · Computer Vision
 
 ---
 
@@ -37,6 +37,7 @@ Focused on maintainable software design, system integration, and applied AI (LLM
 | | |
 |---|---|
 | [**Inkwell**](https://github.com/tenorio-labs/inkwell-releases) | Note-taking desktop app with drawing support — macOS & Windows |
+| [**Retail Computer Vision**](https://computer-vision-reatil.vercel.app/) | In-browser shelf analysis — detects products and out-of-stock gaps using ONNX + WebAssembly, no server required |
 
 ---
 
