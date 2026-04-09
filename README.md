@@ -6,7 +6,7 @@
 
 <a href="https://luis-tenorio.qbytes.dev/">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/luis-tenorio-code/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:luisprograming0@gmail.com">Email</a>
+<a href="https://www.upwork.com/freelancers/~0162b51fea3ff5bf7c">Upwork</a>
 
 </div>
 
