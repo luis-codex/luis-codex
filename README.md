@@ -5,7 +5,7 @@
 **Full Stack Engineer · API Design · Applied AI**
 
 <a href="https://luis-tenorio.qbytes.dev/">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/luis-tenorio-code/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/tenorio-luis/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:luisprograming0@gmail.com">Email</a>
 
 </div>
