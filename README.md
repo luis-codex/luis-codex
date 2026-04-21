@@ -36,7 +36,6 @@ Focused on maintainable software design, system integration, and applied AI (LLM
 
 | | |
 |---|---|
-| [**Inkwell**](https://github.com/tenorio-labs/inkwell-releases) | Note-taking desktop app with drawing support — macOS & Windows |
 | [**Retail Computer Vision**](https://computer-vision-reatil.vercel.app/) | In-browser shelf analysis — detects products and out-of-stock gaps using ONNX + WebAssembly, no server required |
 
 ---
