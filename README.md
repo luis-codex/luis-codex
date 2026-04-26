@@ -37,6 +37,7 @@ Focused on maintainable software design, system integration, and applied AI (LLM
 | | |
 |---|---|
 | [**Retail Computer Vision**](https://computer-vision-reatil.vercel.app/) | In-browser shelf analysis — detects products and out-of-stock gaps using ONNX + WebAssembly, no server required |
+| [**Qwen Reader**](https://github.com/luis-codex/qwen-reader) | Modular CLI tool for converting Markdown to high-quality audio using Qwen3-TTS and Clean Architecture |
 
 ---
 
