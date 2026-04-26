@@ -42,5 +42,5 @@ Focused on maintainable software design, system integration, and applied AI (LLM
 ---
 
 <div align="center">
-<sub><a href="https://github.com/tenorio-labs">Tenorio Labs</a></sub>
+<sub><span>Tenorio Labs</span></sub>
 </div>
